@@ -1,4 +1,4 @@
-i.container .places {
+.container .places {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
