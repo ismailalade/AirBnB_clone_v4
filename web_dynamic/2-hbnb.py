@@ -1,4 +1,4 @@
-i#!/usr/bin/python3
+#!/usr/bin/python3
 """ Starts a Flask application related to HBNB. """
 
 from os import getenv
