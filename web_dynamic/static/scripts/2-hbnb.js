@@ -1,4 +1,4 @@
-i<<<<<<< HEAD
+<<<<<<< HEAD
 // const host = 'localhost';
 const host = '0.0.0.0';
 
