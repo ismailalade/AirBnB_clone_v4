@@ -1,4 +1,4 @@
-$(() => {
+i$(() => {
   const checkedAmenities = {};
   let displayAmenities = [];
   $('.amenities .popover input').change(function () {

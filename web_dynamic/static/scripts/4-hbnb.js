@@ -1,4 +1,4 @@
-// const host = 'localhost';
+i// const host = 'localhost';
 const host = '0.0.0.0';
 
 const checkedAmenities = {};
